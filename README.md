@@ -41,6 +41,7 @@ subdivisões, este trabalho apresenta recentes estudos de mapeamento cerebral e 
   <ul>
     <li> <b>Aluno</b>: Luis Fernando Orlande de Almeida</li>
     <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
+    <li> <b>Colaboradores</b>: Éder Aguiar Mendes Oliveira, Cássia do Carmo Pires, Débora Silva Veloso, Bruno Nonato Gomes</li>
     <li> <b>Título do trabalho</b>: Um Estudo de Caso sobre os Efeitos da Tecnologia no Ensio Básico de Sabará-MG por Meio de Projeto de Inclusão Digital de Mulheres</li>
     <li> <p align="Justify"><b>Resumo</b>: Neste artigo apresentamos um estudo de caso sobre os efeitos da tecnologia no ensino básico público da cidade mineira de Sabará, utilizando como amostra alunas de dez escolas públicas da cidade, que integraram um projeto de inclusão digital feminina de fomento federal. Foram avaliadas 65 alunas de diversas escolas públicas da cidade e para se fazer a análise proposta, foram coletadas informações por meio de dois formulários e um teste estratificado com categorias de conhecimento aplicado às alunas e aos instrutores, e em seguida foram realizadas inferências a partir destes dados. Os resultados mostraram uma equiparação por nível de ensino, porém com destaque para o ensino fundamental, além dos resultados sugerirem influência do local de realização do curso durante o desenvolvimento do projeto no desempenho do teste de conhecimento.</p></li>
     <li> <b>Artigo no git</b>: https://github.com/IFMG-Info/educationaltechnology/blob/main/Um_Estudo_Tecnologia_Inclusao_Mulheres_LuisOrlande_RBEPT2021.pdf </li>

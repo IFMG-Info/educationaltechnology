@@ -70,7 +70,7 @@ em três níveis: no nível básico utilizamos os sistemas Logo e Scratch; no n�
 
 <li>
   <ul>
-    <li> <b>Aluno</b>: Nádia Luize de Almeida Alexandrino</li>
+    <li> <b>Aluna</b>: Nádia Luize de Almeida Alexandrino</li>
     <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
     <li> <b>Coorientadora</b>: Cristiane Norbiato Targa</li>
     <li> <b>Colaborador</b>: Daniel Bruno Fernandes Conrado</li>
@@ -102,7 +102,7 @@ referentes à Raciocínio Fluido (Gf), indicando que o projeto pode ter contribu
 
 <li>
   <ul>
-    <li> <b>Aluno</b>: Nádia Luize de Almeida Alexandrino</li>
+    <li> <b>Aluna</b>: Nádia Luize de Almeida Alexandrino</li>
     <li> <b>Orientador</b>: Carlos Alexandre Silva</li>
     <li> <b>Coorientadora</b>: Cristiane Norbiato Targa</li>
     <li> <b>Colaborador</b>: Daniel Bruno Fernandes Conrado</li>

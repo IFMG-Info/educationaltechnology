@@ -14,7 +14,10 @@ Este repositório reúne produções acadêmicas na área de Tecnologia na Educa
 | 2021 | Análise da dimensionalidade e caracterização cognitiva de um CTt aplicado a um projeto de inclusão digital feminina | Nikolas Gabriel da Silva | Artigo completo | CONIC 2021 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Analise_Dimensionalidade_CTT_Inclusao_Feminina_Nikolas_CONIC2021.pdf) |
 | 2022 | Uma Experiência de Ensino de Programação e Robótica para Alunas do Ensino Básico como Estratégia de Ação Afirmativa | Nádia Luize de Almeida Alexandrino | Artigo em periódico | Interfaces - Revista de Extensão da UFMG | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Uma_Experiencia_Ensino_Prog_Alunas_Nadia_INTERFACES2022.pdf) |
 | 2022 | Proposta de Plataforma Web no Auxílio à Aprendizagem Utilizando Neurociência Cognitiva | Bárbara Rabelo dos Santos | TCC | Repositório IFMG | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Proposta_Plataforma_Auxilio_Aprendizagem_Barbara_TCC2022.pdf) |
+| 2024 | Sabará Racial Equity Program: Digital inclusion of black and brown girls in Sabará | Pedro Henrique de Ávila Vasconcelos | Artigo completo | Seven International Multidisciplinary Congress 2024 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Sabara_Racial_Equity_Program_PedroHenrique_Seven2024.pdf) |
 | 2025 | PortugIF: Uma Ferramenta Interativa para o Ensino de Estruturas de Programação em Portugol | Igor Lucas Silva Caetano de Oliveira | TCC | Repositório IFMG | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/PortugIF_Ferramenta_Interativa_Ensino_Programacao_IgorOliveira_TCC2025.pdf) |
+| 2025 | Integração de Jogos Digitais e Gamificação no Ensino de Inglês em Sala de Aula: Um Estudo de Caso do Programa Sabará | Paulo Moura da Costa Macedo | Artigo completo | SBIE 2025 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Integracao_Jogos_Digitais_Gamificacao_Ingles_ProgramaSabara_PauloLivia_SBIE2025.pdf) |
+| 2025 | STENCIL: Prova de Conceito de um Software de Gamificação para Cenários Educacionais de Baixa Disponibilidade de Tecnologia | Paulo Moura da Costa Macedo | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/STENCIL_Software_Gamificacao_BaixaTecnologia_PauloLivia_CONIC2025.pdf) |
 
 ## Detalhes dos trabalhos
 
@@ -150,7 +153,22 @@ Este repositório reúne produções acadêmicas na área de Tecnologia na Educa
 
 ---
 
-### 9. PortugIF: Uma Ferramenta Interativa para o Ensino de Estruturas de Programação em Portugol
+### 9. Sabará Racial Equity Program: Digital inclusion of black and brown girls in Sabará
+
+- **Autor(a):** Pedro Henrique de Ávila Vasconcelos
+- **Coautor(es):** Ana Luiza Baião Rodrigues; Lillia dos Santos Barsante; Márcia Basília de Araújo; Carlos Alberto Severiano Júnior; Carlos Alexandre Silva
+- **Ano:** 2024
+- **Tipo:** Artigo completo
+- **Resumo:** O trabalho apresenta a experiência do Programa Sabará: Equidade Racial, voltado à inclusão digital de meninas negras e pardas no município de Sabará. A iniciativa articula programação, robótica, pensamento computacional e educação STEAM em escolas públicas, buscando enfrentar desigualdades raciais e de gênero por meio de ações formativas e tecnológicas. O artigo destaca o contexto social da proposta, sua estrutura de execução e seus impactos educacionais.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Sabara_Racial_Equity_Program_PedroHenrique_Seven2024.pdf)
+- **Veículo de divulgação:** VI Seven International Multidisciplinary Congress, 2024
+- **Citação:** VASCONCELOS, Pedro Henrique de Ávila; RODRIGUES, Ana Luiza Baião; SILVA, Lillia dos Santos Barsante; DE ARAÚJO, Márcia Basília; SEVERIANO JÚNIOR, Carlos Alberto; SILVA, Carlos Alexandre. Sabará Racial Equity Program: Digital inclusion of black and brown girls in Sabará. In: VI Seven International Multidisciplinary Congress, 2024.
+- **Link externo:** https://sevenpubl.com.br/index.php/anais7/article/view/4919
+- **DOI:** Não informado
+
+---
+
+### 10. PortugIF: Uma Ferramenta Interativa para o Ensino de Estruturas de Programação em Portugol
 
 - **Autor(a):** Igor Lucas Silva Caetano de Oliveira
 - **Orientador(a):** Carlos Alexandre Silva
@@ -161,6 +179,37 @@ Este repositório reúne produções acadêmicas na área de Tecnologia na Educa
 - **Veículo de divulgação:** Repositório IFMG
 - **Citação:** OLIVEIRA, Igor Lucas Silva Caetano de; SILVA, Carlos Alexandre. PortugIF: Uma Ferramenta Interativa para o Ensino de Estruturas de Programação em Portugol. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informação), Instituto Federal de Minas Gerais, Sabará, 2025.
 - **Link externo:** https://repositorio.ifmg.edu.br/items/c7176160-0923-4312-ab35-dbf9d9fb033c
+- **DOI:** Não informado
+- **Observação:** O trabalho também está catalogado no repositório de Desenvolvimento de Software.
+
+---
+
+### 11. Integração de Jogos Digitais e Gamificação no Ensino de Inglês em Sala de Aula: Um Estudo de Caso do Programa Sabará
+
+- **Autor(a):** Paulo Moura da Costa Macedo
+- **Coautor(es):** Lívia Mendes Soares; Carlos Alexandre Silva; Daniel Bruno Fernandes Conrado
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** O trabalho investiga a integração de jogos digitais e estratégias de gamificação no ensino de inglês em sala de aula, tomando como estudo de caso o Programa Sabará. A proposta discute o uso pedagógico de recursos lúdicos e digitais para ampliar engajamento, motivação e participação dos estudantes, com foco em contextos da educação básica pública.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Integracao_Jogos_Digitais_Gamificacao_Ingles_ProgramaSabara_PauloLivia_SBIE2025.pdf)
+- **Veículo de divulgação:** Simpósio Brasileiro de Informática na Educação (SBIE 2025)
+- **Citação:** MACEDO, P. M. C.; SOARES, L. M.; SILVA, C. A.; CONRADO, D. B. F. Integração de Jogos Digitais e Gamificação no Ensino de Inglês em Sala de Aula: Um Estudo de Caso do Programa Sabará. In: Simpósio Brasileiro de Informática na Educação (SBIE), 2025, Curitiba. Anais do Simpósio Brasileiro de Informática na Educação (SBIE 2025). Porto Alegre: Sociedade Brasileira de Computação, 2025. v. 1. p. 1694-1703.
+- **Link externo:** https://sol.sbc.org.br/index.php/sbie/article/view/38539/38313
+- **DOI:** Não informado
+
+---
+
+### 12. STENCIL: Prova de Conceito de um Software de Gamificação para Cenários Educacionais de Baixa Disponibilidade de Tecnologia
+
+- **Autor(a):** Paulo Moura da Costa Macedo
+- **Coautor(es):** Lívia Mendes Soares; Daniel Bruno Fernandes Conrado; Carlos Alexandre Silva
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** O trabalho apresenta o STENCIL como prova de conceito de um software de gamificação desenvolvido para cenários educacionais com baixa disponibilidade de tecnologia. A proposta busca oferecer uma solução de baixo custo, com funcionamento adaptado a contextos de infraestrutura limitada, ampliando possibilidades de uso pedagógico de elementos de gamificação em escolas públicas e outros ambientes com restrições tecnológicas.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/STENCIL_Software_Gamificacao_BaixaTecnologia_PauloLivia_CONIC2025.pdf)
+- **Veículo de divulgação:** Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025
+- **Citação:** MACEDO, P. M. C.; SOARES, L. M.; CONRADO, D. B. F.; SILVA, C. A. STENCIL: Prova de Conceito de um Software de Gamificação para Cenários Educacionais de Baixa Disponibilidade de Tecnologia. In: Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025, São Paulo. Anais do Conic-Semesp. São Paulo: Semesp, 2025.
+- **Link externo:** https://www.conic-semesp.org.br/anais/files/2025/trabalho-1000014348.pdf?1764588986
 - **DOI:** Não informado
 - **Observação:** O trabalho também está catalogado no repositório de Desenvolvimento de Software.
 

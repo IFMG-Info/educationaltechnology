@@ -17,7 +17,7 @@ Este repositório reúne produções acadêmicas na área de Tecnologia na Educa
 | 2024 | Sabará Racial Equity Program: Digital inclusion of black and brown girls in Sabará | Pedro Henrique de Ávila Vasconcelos | Artigo completo | Seven International Multidisciplinary Congress 2024 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Sabara_Racial_Equity_Program_PedroHenrique_Seven2024.pdf) |
 | 2025 | PortugIF: Uma Ferramenta Interativa para o Ensino de Estruturas de Programação em Portugol | Igor Lucas Silva Caetano de Oliveira | TCC | Repositório IFMG | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/PortugIF_Ferramenta_Interativa_Ensino_Programacao_IgorOliveira_TCC2025.pdf) |
 | 2025 | Integração de Jogos Digitais e Gamificação no Ensino de Inglês em Sala de Aula: Um Estudo de Caso do Programa Sabará | Paulo Moura da Costa Macedo | Artigo completo | SBIE 2025 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Integracao_Jogos_Digitais_Gamificacao_Ingles_ProgramaSabara_PauloLivia_SBIE2025.pdf) |
-| 2025 | STENCIL: Prova de Conceito de um Software de Gamificação para Cenários Educacionais de Baixa Disponibilidade de Tecnologia | Paulo Moura da Costa Macedo | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/STENCIL_Software_Gamificacao_BaixaTecnologia_PauloLivia_CONIC2025.pdf) |
+| 2025 | STENCIL: Prova de Conceito de um Software de Gamificação para Cenários Educacionais de Baixa Disponibilidade de Tecnologia | Lívia Soares Mendes | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/STENCIL_Software_Gamificacao_BaixaTecnologia_PauloLivia_CONIC2025.pdf) |
 | 2025 | Análise Exploratória de Dados Educacionais: Um Estudo de Caso do Programa Sabará | Thiago Pedro Ferreira | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Analise_Exploratoria_Dados_Educacionais_ProgramaSabara_ThiagoPedro_CONIC2025.pdf) |
 
 ## Detalhes dos trabalhos
@@ -202,8 +202,8 @@ Este repositório reúne produções acadêmicas na área de Tecnologia na Educa
 
 ### 12. STENCIL: Prova de Conceito de um Software de Gamificação para Cenários Educacionais de Baixa Disponibilidade de Tecnologia
 
-- **Autor(a):** Paulo Moura da Costa Macedo
-- **Coautor(es):** Lívia Mendes Soares; Daniel Bruno Fernandes Conrado; Carlos Alexandre Silva
+- **Autor(a):** Lívia Mendes Soares
+- **Coautor(es):** Paulo Moura da Costa Macedo; Daniel Bruno Fernandes Conrado; Carlos Alexandre Silva
 - **Ano:** 2025
 - **Tipo:** Artigo completo
 - **Resumo:** O trabalho apresenta o STENCIL como prova de conceito de um software de gamificação desenvolvido para cenários educacionais com baixa disponibilidade de tecnologia. A proposta busca oferecer uma solução de baixo custo, com funcionamento adaptado a contextos de infraestrutura limitada, ampliando possibilidades de uso pedagógico de elementos de gamificação em escolas públicas e outros ambientes com restrições tecnológicas.

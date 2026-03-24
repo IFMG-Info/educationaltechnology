@@ -18,6 +18,7 @@ Este repositório reúne produções acadêmicas na área de Tecnologia na Educa
 | 2025 | PortugIF: Uma Ferramenta Interativa para o Ensino de Estruturas de Programação em Portugol | Igor Lucas Silva Caetano de Oliveira | TCC | Repositório IFMG | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/PortugIF_Ferramenta_Interativa_Ensino_Programacao_IgorOliveira_TCC2025.pdf) |
 | 2025 | Integração de Jogos Digitais e Gamificação no Ensino de Inglês em Sala de Aula: Um Estudo de Caso do Programa Sabará | Paulo Moura da Costa Macedo | Artigo completo | SBIE 2025 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Integracao_Jogos_Digitais_Gamificacao_Ingles_ProgramaSabara_PauloLivia_SBIE2025.pdf) |
 | 2025 | STENCIL: Prova de Conceito de um Software de Gamificação para Cenários Educacionais de Baixa Disponibilidade de Tecnologia | Paulo Moura da Costa Macedo | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/STENCIL_Software_Gamificacao_BaixaTecnologia_PauloLivia_CONIC2025.pdf) |
+| 2025 | Análise Exploratória de Dados Educacionais: Um Estudo de Caso do Programa Sabará | Thiago Pedro Ferreira | Artigo completo | CONIC 2025 | [PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Analise_Exploratoria_Dados_Educacionais_ProgramaSabara_ThiagoPedro_CONIC2025.pdf) |
 
 ## Detalhes dos trabalhos
 
@@ -212,6 +213,23 @@ Este repositório reúne produções acadêmicas na área de Tecnologia na Educa
 - **Link externo:** https://www.conic-semesp.org.br/anais/files/2025/trabalho-1000014348.pdf?1764588986
 - **DOI:** Não informado
 - **Observação:** O trabalho também está catalogado no repositório de Desenvolvimento de Software.
+
+---
+
+### 13. Análise Exploratória de Dados Educacionais: Um Estudo de Caso do Programa Sabará
+
+- **Autor(a):** Thiago Pedro Ferreira
+- **Orientador(a):** Carlos Alexandre Silva
+- **Coorientador(a):** Renato Miranda Filho
+- **Ano:** 2025
+- **Tipo:** Artigo completo
+- **Resumo:** O estudo analisa dados de 283 estudantes do Programa Sabará por meio de estatística descritiva, ydata-profiling e do algoritmo K-means. A pesquisa identificou três perfis distintos de participantes e evidenciou padrões relacionados ao desempenho, ao tipo de escola frequentada e à distância até o campus. Os resultados contribuem para a compreensão do perfil dos estudantes atendidos pelo programa e para o planejamento de ações educacionais baseadas em dados.
+- **PDF no repositório:** [Acessar PDF](https://github.com/IFMG-Info/educationaltechnology/blob/main/Analise_Exploratoria_Dados_Educacionais_ProgramaSabara_ThiagoPedro_CONIC2025.pdf)
+- **Veículo de divulgação:** Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025
+- **Citação:** FERREIRA, Thiago Pedro; SILVA, Carlos Alexandre; FILHO, Renato Miranda. Análise Exploratória de Dados Educacionais: Um Estudo de Caso do Programa Sabará. In: Congresso Nacional de Iniciação Científica (CONIC-SEMESP), 2025.
+- **Link externo:** https://www.conic-semesp.org.br/anais/files/2025/trabalho-1000014115.pdf?1774312614
+- **DOI:** Não informado
+- **Observação:** O trabalho também está catalogado no repositório de Ciência de Dados.
 
 ## Organização
 
